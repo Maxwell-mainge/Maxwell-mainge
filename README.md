@@ -6,6 +6,7 @@ and also building my own personal projects.
 - Java | MySQL | Git
 - Web Development: HTML, CSS, JS
 - Python & Automation
+## Contact me
 Here is my email. maingimaxwell51@gmail.com
 <!--
 **Maxwell-mainge/Maxwell-mainge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
