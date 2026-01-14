@@ -1,5 +1,12 @@
-## Hi there 👋
-
+## Welcome to my github account👋
+I'm Maxwell Mainge, a Diploma in IT student at CUEA.
+I'm interested in coding, learning about new emerging technologies
+and also building my own personal projects.
+## Skills
+- Java | MySQL | Git
+- Web Development: HTML, CSS, JS
+- Python & Automation
+Here is my email. maingimaxwell51@gmail.com
 <!--
 **Maxwell-mainge/Maxwell-mainge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
