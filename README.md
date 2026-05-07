@@ -1,5 +1,5 @@
 ## Welcome to my github account👋
-I'm Maxwell Mainge, a Diploma in IT student at CUEA.
+I'm Maxwell Mainge, a computer science student at CUEA.
 I'm interested in coding, learning about new emerging technologies
 and also building my own personal projects.
 ## Skills
